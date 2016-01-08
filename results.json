@@ -1,1 +1,28 @@
-"Turing School of Software & Design | Creating Great Coders"
+[
+  {
+    "src": "https://www.turing.io/sites/default/files/turing-logo_1.png"
+  },
+  {
+    "src": "http://turing.io/sites/all/themes/d7/less/img/turing-logo-gear.png"
+  },
+  {
+    "src": "https://www.turing.io/sites/default/files/styles/small_circle/public/user_avatars/profilephoto_2.jpg?itok=WKw7oJ4x",
+    "width": "42",
+    "height": "42"
+  },
+  {
+    "src": "https://www.turing.io/sites/default/files/styles/small_circle/public/user_avatars/quick_left_logo.png?itok=S6BkRIM6",
+    "width": "42",
+    "height": "42"
+  },
+  {
+    "src": "https://www.turing.io/sites/default/files/styles/small_circle/public/user_avatars/images.png?itok=Cz9F9HoM",
+    "width": "42",
+    "height": "42"
+  },
+  {
+    "src": "https://www.turing.io/sites/default/files/styles/small_circle/public/pictures/picture-225-1450113683.jpg?itok=LiumiRTu",
+    "width": "42",
+    "height": "42"
+  }
+]

@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/acareaga/node-scraper/issues"
   },
-  "homepage": "https://github.com/acareaga/node-scraper#readme"
+  "homepage": "https://github.com/acareaga/node-scraper#readme",
+  "dependencies": {
+    "download": "4.4.3"
+  }
 }
